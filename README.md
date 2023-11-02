@@ -1,6 +1,7 @@
 # todo_app
-
-A new Flutter project.
+In this todo app, all of the added todo list are store in offline storage as known as stored in system memory which is developed using combination 
+of bloc: state management and sqlite for offline storage.Application is performing whole crud operations like insert,update ,delete and while in the scenario of 
+add todo there is title and description . 
 
 ## Getting Started
 
